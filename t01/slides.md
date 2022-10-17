@@ -102,3 +102,13 @@ layout: cover
 - GitLab: wer Github nicht mag
 - GigaMove: große Dateien verschieben
 - [Microsoft-Lizenzen](https://help.itc.rwth-aachen.de/service/468ad37bfd1f4fe19073f4465ea3c685/article/3cd7217c7935406c98841dc37f63d53c/)
+
+---
+layout: cover
+class: "text-center"
+---
+
+<img alt="QR Codfe link" src="/qr-code.png" class="mx-auto" />
+
+[Folien](https://mentoring-t01.alexbaron.me/)
+
