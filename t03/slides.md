@@ -45,6 +45,14 @@ image: https://unsplash.com/photos/fg8tdcxrkrA/download?ixid=MnwxMjA3fDB8MXxzZWF
 </v-click>
 
 ---
+
+# Mein Wochenpensum (geschätzt)
+<div class="h-full">
+
+<img src="time-sunburst.png" class="h-full py-12 mx-auto -my-6"/>
+</div>
+
+---
 layout: cover
 background: https://unsplash.com/photos/TPZNooS1Meg/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NXx8c2FkJTIwZG9nfGVufDB8fHx8MTY2NjIzOTE0Nw&w=1920
 ---
@@ -134,14 +142,34 @@ image: https://unsplash.com/photos/Zqy-x7K5Qcg/download?force=true&w=1920
 
 # Prioritäten unklar?
 
-- Aufgaben in _Eisenhower-Matrix_
-- Priorisiere nach _ABC-Prinzip_
+- Aufgaben in [_Eisenhower-Matrix_](https://moodle.rwth-aachen.de/pluginfile.php/2212921/mod_lesson/page_contents/15968/ABC-Analyse_ohneEisenhower.png)
+- Priorisiere nach [_ABC-Prinzip_](https://moodle.rwth-aachen.de/pluginfile.php/2212921/mod_lesson/page_contents/15968/ABC-Analyse_ohneEisenhower.png)
+
+<!--
+- Wichtig & dringend
+- Wichtig aber nicht dringend
+- Nicht wichtig, aber dringend
+-->
 
 ---
 layout: image-right
 image: https://unsplash.com/photos/SZdKDnkd6k8/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Nnx8c21hcnQlMjBkb2d8ZW58MHx8fHwxNjY2MjY3Mzg2&force=true&w=1920
 ---
 
-#
+# Zusammenfassung
 
-Du, wenn du die Tipps befolgst =>
+- Hohes Pensum, also Selbstorga wichtig
+- Überblick verschaffen, _realistischen_ Plan erstellen (Effektivität & Effizienz)
+- Für Priorisierung: ABC-Methode & Eisenhower-Matrix
+
+<p class="text-gray-500 text-sm text-right">Du, wenn du die Tipps befolgst =></p>
+
+---
+
+# Einzelgespräche
+
+- Bitte vorbereiten:
+    - Was gab es Gutes? Was Schlechtes?
+    - Gab es Hürden?
+    - Feedback an mich/ans Mentoring?
+    - Sonstige Sachen, die du ansprechen willst?
