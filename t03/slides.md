@@ -24,6 +24,29 @@ css: unocss
 # Sich selbst neu organisieren
 
 ---
+layout: cover
+background: ""
+---
+
+# Wie viele Wochenstunden braucht ihr?
+
+---
+layout: fact
+---
+
+# 58 Wochenstunden
+
+Sind das Minimum, das ihr _ins Studium_ investieren müsst
+
+<!--
+Dazu kommen:
+- Freizeit
+- Freundschaften
+- Beziehung
+- Hobbys
+-->
+
+---
 layout: image-right
 image: https://unsplash.com/photos/fg8tdcxrkrA/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Mnx8Y29uZnVzZWR8ZW58MHx8fHwxNjY2MjYxNTQ2&force=true&w=1920
 ---
@@ -49,8 +72,18 @@ image: https://unsplash.com/photos/fg8tdcxrkrA/download?ixid=MnwxMjA3fDB8MXxzZWF
 # Mein Wochenpensum (geschätzt)
 <div class="h-full">
 
-<img src="time-sunburst.png" class="h-full py-12 mx-auto -my-6"/>
+<img src="/time-sunburst.png" class="h-full py-12 mx-auto -my-6"/>
 </div>
+
+<!--
+# Was ist nicht eingeschlossen?
+
+- Pausen
+- Sport
+- Beziehung
+- Freunde
+
+-->
 
 ---
 layout: cover
@@ -59,6 +92,10 @@ background: https://unsplash.com/photos/TPZNooS1Meg/download?ixid=MnwxMjA3fDB8MX
 
 # 
 So müsst ihr euch nicht fühlen
+
+<!--
+# Was können wir tun, um klarzukommen?
+-->
 
 ---
 layout: fact
@@ -103,7 +140,7 @@ image: https://unsplash.com/photos/Zqy-x7K5Qcg/download?force=true&w=1920
     - Inhalt: Feste Termine, Studienplan, Selbstlernzeit, _Puffer_, ...
     - Frage: Kurz-, Mittel-, oder Langfristig?
 2. Plan visualisieren & gut sichtbar aufhängen
-    - Alex' Tipp: Digitaler Kalender, evtl. mit Management-Tool wie [Reclaim](https://reclaim.ai/)
+    - Alex' Ansatz: Digitaler Kalender mit Management-Tool [Reclaim](https://reclaim.ai/); dazu Todo-Liste in [Todoist](https://todoist.com)
 3. Setze deinen Plan **SOFORT** um
 4. Erledigte Punkte streichen => Motivation
 </v-click>
@@ -152,6 +189,17 @@ image: https://unsplash.com/photos/Zqy-x7K5Qcg/download?force=true&w=1920
 -->
 
 ---
+
+<img src="/eisenhower-matrix.png" class="h-full mx-auto object-cover" />
+
+<!--
+- A = Sofort selber erledigen
+- B = Terminieren & selber erledigen
+- C = Delegieren
+- D = In die Tonne kloppen
+-->
+
+---
 layout: image-right
 image: https://unsplash.com/photos/SZdKDnkd6k8/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Nnx8c21hcnQlMjBkb2d8ZW58MHx8fHwxNjY2MjY3Mzg2&force=true&w=1920
 ---
@@ -168,8 +216,15 @@ image: https://unsplash.com/photos/SZdKDnkd6k8/download?ixid=MnwxMjA3fDB8MXxzZWF
 
 # Einzelgespräche
 
-- Bitte vorbereiten:
-    - Was gab es Gutes? Was Schlechtes?
-    - Gab es Hürden?
-    - Feedback an mich/ans Mentoring?
-    - Sonstige Sachen, die du ansprechen willst?
+- Kein regulärer Termin
+- Zeitbuchung online; Link kommt noch
+- 10-15 Minuten pro Gespräch
+- Zum vorher drüber nachdenken:
+    - Wie kommst du inhaltlich mit?
+    - Bist du gut in Aachen angekommen (Wohnen, Freundschaften, ...)
+    - Hast du Feedback an mich?
+    - Möchtest du sonst etwas ansprechen?
+
+<!--
+# DENKT AN DEN E-TEST!!!
+-->
